@@ -87,22 +87,21 @@
 - 💧 **团队风格**，多数搞项目，搞业务，注重创新和交互技术  
 
 <h3 align="left">Projects</h3>
-<p align="left">
+<p>
     <a href="https://github.com/MaleWeb/vvtp">
-        <img align="center"
+        <img width="430"
             src="https://github-readme-stats.vercel.app/api/pin/?username=maleweb&repo=vvtp&theme=tokyonight" />
     </a>
-</p>
-<p align="left">
     <a href="https://github.com/uu-paotui/usaas-admin-frontend">
-        <img align="center"
+        <img width="430"
             src="https://github-readme-stats.vercel.app/api/pin/?username=uu-paotui&repo=usaas-admin-frontend&theme=tokyonight" />
     </a>
 </p>
 <h3 align="left">GitHub Stats</h3>
-<p align="left">
-    <img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=MaleWeb&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+<p>
+    <img width="334"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaleWeb&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+    <img width="460" src="https://github-readme-stats.vercel.app/api?username=MaleWeb&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28">
 </p>
 
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaleWeb&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+![grid snake animation](https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/commits.svg)
