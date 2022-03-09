@@ -1,5 +1,5 @@
 <p align="center">
-<h2 align="center">扫地盲僧</h2>
+<h2 align="center">扫地盲僧 <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25"></h2>
 <p align="center">人生感意气，功名谁复论</p>
 </p>
 <p align="center">
@@ -56,20 +56,27 @@
     <a href="https://www.nginx.com" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx"
             width="40" height="40" /> </a>
-    <a href="https://www.postgresql.org" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-            alt="postgresql" width="40" height="40" /> </a>
     <a href="https://www.python.org" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="python" width="40" height="40" /> </a>
 </p>
-<h3 align="left">AboutMe</h3>  
 
-- 🚀 **多年研发经验**，全栈开发工程师，效率工程部门负责人，老掉牙的一批，正处30焦虑期  
-- 🍃 **热衷新技术**，追求新技术，新特性，黑科技等  
-- 🤖 **保持Coding**，这个阶段身不由己，各种会议和业务战略，但保持不低于20%CodingTime  
+<img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="400"/>
+
+<h3> 👨🏻‍💻 About Me </h3>  
+
+- 🍃 **热衷新技术**，追求新技术，新特性，黑科技等 
+- 💧 **团队风格**，多数搞项目，搞业务，注重创新和交互技术 
+- 🚀 **多年全栈研发经验**，效率工程负责人，历经从0-1团队+业务的创业经历 
+- 🤖 **保持Coding**，各种会议和业务战略下，保持不低于20%的CodingTime  
 - 🎯 **擅长语言**，讲框架有些鸡肋了，JS，Node，PHP等，最好日UV20万，200QPS
-- 💧 **团队风格**，多数搞项目，搞业务，注重创新和交互技术  
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; JavaScript |  HTML5 | CSS3 | Vue3 | React  
+- 🌐 &nbsp; Node | PHP | Python 
+- 🛢 &nbsp;  MySQL  | Docker | Nginx | Jenkins
+- 🔧 &nbsp;  Visual Studio code | DevOps | Git
 
 <h3 align="left">Projects</h3>
 <p>
