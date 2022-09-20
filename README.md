@@ -68,10 +68,6 @@
         <img width="360"
             src="https://github-readme-stats.vercel.app/api/pin/?username=MaleWeb&repo=fastool&theme=tokyonight" />
     </a>
-    <a href="https://github.com/uu-paotui/usaas-admin-frontend">
-        <img width="720"
-            src="https://github-readme-stats.vercel.app/api/pin/?username=uu-paotui&repo=usaas-admin-frontend&theme=tokyonight" />
-    </a>
 </p>
 <h3 align="left">GitHub Stats</h3>
 <p>
