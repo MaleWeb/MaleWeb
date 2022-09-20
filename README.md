@@ -44,13 +44,10 @@
 
 <img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="400"/>
 
-<h3> 👨🏻‍💻 About Me </h3>  
+---
 
-- 🍃 **热衷新技术**，追求新技术，新特性，黑科技等 
-- 💧 **团队风格**，多数搞项目，搞业务，注重创新和交互技术 
-- 🚀 **多年全栈研发经验**，效率工程负责人，历经从0-1团队+业务的创业经历 
-- 🤖 **保持Coding**，各种会议和业务战略方案下，每天保持不低于20%的CodingTime  
-- 🎯 **擅长语言**，Ts，JS，Node，PHP等，均有百万级流量的线上项目。
+我是UUPT的一名全栈开发人员，大概有近10年的撸码经验。喜欢研究和探索一些新技术、新框架、新的效率工具、改善开发人员体验、积极与开发社区互动、为开源做出一些贡献、并乐于学习新事物。曾负责大型Web应用，从0到百万级过程的团队搭建，技术架构，构建流程等工作。而后负责效率工程，为企业构建信息化、数字化生态架构。我目前专注于架构设计和大数据分析，并设计一些颠覆性的架构来满足多元化的应用需求，例如LCDP。未来，想要完成人工智能算法相关的硕士学位~
+
 
 <h3>🛠 Tech Stack</h3>
 
@@ -78,3 +75,7 @@
 </p>
 
 ![grid snake animation](https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/commits.svg)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MaleWeb&style=flat-square&color=5d78ff" />
+</p>
