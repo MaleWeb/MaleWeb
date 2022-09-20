@@ -1,6 +1,6 @@
 <p align="center">
-<h2 align="center">扫地盲僧 <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25"></h2>
-<p align="center">人生感意气，功名谁复论</p>
+<h2 align="center"> <img src="./hello.gif"></h2>
+<p align="center">我的成就</p>
 </p>
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats/actions">
@@ -20,6 +20,7 @@
     </a>
 </p>
 </br>
+<p align="center">我的能力</p>
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
