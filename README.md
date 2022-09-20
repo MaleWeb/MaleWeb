@@ -61,15 +61,15 @@
 <h3 align="left">Projects</h3>
 <p>
     <a href="https://github.com/tobe-fe-dalao/fast-vue3">
-        <img width="430"
+        <img width="360"
             src="https://github-readme-stats.vercel.app/api/pin/?username=maleweb&repo=vvtp&theme=tokyonight" />
     </a>
     <a href="https://github.com/MaleWeb/fastool">
-        <img width="430"
+        <img width="360"
             src="https://github-readme-stats.vercel.app/api/pin/?username=MaleWeb&repo=fastool&theme=tokyonight" />
     </a>
     <a href="https://github.com/uu-paotui/usaas-admin-frontend">
-        <img width="430"
+        <img width="720"
             src="https://github-readme-stats.vercel.app/api/pin/?username=uu-paotui&repo=usaas-admin-frontend&theme=tokyonight" />
     </a>
 </p>
