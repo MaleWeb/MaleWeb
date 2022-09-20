@@ -1,5 +1,5 @@
 <p align="center">
-<h2 align="center"> <img src="./hello.gif"></h2>
+<h2 align="center"> <img src="./hello.gif" width="420"></h2>
 <p align="center">我的成就</p>
 </p>
 <p align="center">
