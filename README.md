@@ -3,9 +3,9 @@
 <p align="center">我的成就</p>
 </p>
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
+<!--     <a href="https://github.com/anuraghazra/github-readme-stats/actions">
         <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
-    </a>
+    </a> -->
     <a href="https://github.com/MaleWeb">
         <img alt="github"
             src="https://img.shields.io/github/stars/tobe-fe-dalao/fast-vue3?affiliations=OWNER&color=%23ffe411&label=github%20stars&logo=github&logoColor=%23fffFF&style=flat" />
@@ -16,11 +16,11 @@
     </a>
     <a href="https://juejin.cn/user/3016715636842622">
         <img alt="juejin"
-            src="https://img.shields.io/badge/%E6%8E%98%E9%87%91-2021%E5%B9%B4%E5%BA%A6%E4%BD%9C%E8%80%8534%E5%90%8D-%23007fff" />
+            src="https://img.shields.io/badge/%E6%8E%98%E9%87%91-2021%E5%B9%B4%E5%BA%A6%E4%BD%9C%E8%80%8534%E5%90%8D-yellow" />
     </a>
       <a href="https://juejin.cn/user/3016715636842622">
         <img alt="juejin"
-            src="https%3A%2F%2Fimg.shields.io%2Fbadge%2F%E6%8E%98%E9%87%91-2022%E5%B9%B4%E5%BA%A6%E4%BD%9C%E8%80%857%E5%90%8D-%23007fff" />
+            src="https://img.shields.io/badge/%E6%8E%98%E9%87%91-2022%E5%B9%B4%E5%BA%A6%E4%BD%9C%E8%80%857%E5%90%8D-%23007fff" />
     </a>
 </p>
 </br>
