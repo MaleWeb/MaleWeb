@@ -18,9 +18,13 @@
         <img alt="juejin"
             src="https://img.shields.io/badge/%E6%8E%98%E9%87%91-2021%E5%B9%B4%E5%BA%A6%E4%BD%9C%E8%80%8534%E5%90%8D-%23007fff" />
     </a>
+      <a href="https://juejin.cn/user/3016715636842622">
+        <img alt="juejin"
+            src="https%3A%2F%2Fimg.shields.io%2Fbadge%2F%E6%8E%98%E9%87%91-2022%E5%B9%B4%E5%BA%A6%E4%BD%9C%E8%80%857%E5%90%8D-%23007fff" />
+    </a>
 </p>
 </br>
-<p align="center">我的能力</p>
+<p align="center">我擅长的领域</p>
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
@@ -46,7 +50,7 @@
 
 ---
 
-我是一名全栈开发人员，大概有近10年的撸码经验。喜欢研究和探索一些新技术、新框架、新的效率工具、改善开发人员体验、积极与开发社区互动、为开源做出一些贡献、并乐于学习新事物。曾负责从0到百万级的大型Web应用，主导团队搭建，技术架构设计，工程化构建流程等工作。而后负责企业效率工程部分，为企业构建信息化、数字化的生态架构。我目前专注于架构设计和大数据分析，并设计一些颠覆性的技术架构来满足多元化的应用需求，例如LCDP。未来，实现财务自由~ 交朋友[加微信](https://raw.githubusercontent.com/MaleWeb/picture/main/images/2023/%E5%B0%8F%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)
+我是一名全栈开发人员，大概有近10年的撸码经验，三次创业经历。喜欢研究和探索一些新技术、新框架、新的效率工具、改善开发人员体验、积极与开发社区互动、为开源做出一些贡献、并乐于学习新事物。曾负责从0到百万级的大型Web应用，主导团队搭建，技术架构设计，工程化构建流程等工作。而后负责企业效率工程部分，为企业构建信息化、数字化的生态架构。我目前专注于架构设计和大数据分析，并设计一些颠覆性的技术架构来满足多元化的应用需求，例如LCDP。未来，实现财务自由~ 交朋友[加微信](https://raw.githubusercontent.com/MaleWeb/picture/main/images/2023/%E5%B0%8F%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)
 
 
 <h3>🛠 Tech Stack</h3>
